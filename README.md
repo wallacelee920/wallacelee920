@@ -1,1 +1,1 @@
-![GitHub Stats]
+[GitHub Stats]
